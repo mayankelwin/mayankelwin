@@ -37,3 +37,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mayankelwin/mayankelwin/output/snake.svg" alt="Snake animation" />
+
+###
